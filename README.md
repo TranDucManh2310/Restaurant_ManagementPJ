@@ -58,3 +58,8 @@ Dish management: Add, edit, delete, search for dishes.
 Table management: Update table status, arrange tables.
 Bill management: Create new bills, edit bills, view bill history.
 Reporting: Generate sales reports, inventory reports.
+# Project Objective
+Building a Restaurant Management System designed with object orientation in a 3-layer model in a professional, flexible way, able to manage and store a large amount of data. The system helps users more easily organize and manage Customer data, manage Table Reservations, manage Menus, ... and much more.
+# ERD Model 
+![image](https://github.com/user-attachments/assets/14ef617d-8ff5-43c8-b2bd-eeb013b9912c)
+
