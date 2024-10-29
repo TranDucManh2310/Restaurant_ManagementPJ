@@ -74,4 +74,19 @@ Human Resources Management
 Sales Statistics  
 Print Invoices  
 Customer Management      
+# Product Demo
+-- **Login**  
+![image](https://github.com/user-attachments/assets/1cec9ec2-97b6-46a6-9ceb-40c88520aebb)  
+-- **Home**  
+![image](https://github.com/user-attachments/assets/6e1d3dc9-e917-4c7c-8902-b6304f3f71c0)  
+-- **Choose dish**  
+![image](https://github.com/user-attachments/assets/5de2358f-bd49-4405-883d-67da8b607b0f)  
+-- **Change Password**  
+![image](https://github.com/user-attachments/assets/9b3879f8-9725-4820-8bb9-4033099b04b9)  
+-- **Billing Statistics**
+![image](https://github.com/user-attachments/assets/1acd94cc-f92f-4d7d-bdf6-ebafcb145373)
+
+
+
+
 
