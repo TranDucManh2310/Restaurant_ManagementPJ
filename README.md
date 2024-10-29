@@ -63,15 +63,15 @@ Building a Restaurant Management System designed with object orientation in a 3-
 # ERD Model 
 ![image](https://github.com/user-attachments/assets/14ef617d-8ff5-43c8-b2bd-eeb013b9912c)
 # Main functions
-Login\n
-Account Management\n
-Customer Management\n
-Table Management\n
-Ingredient Management
-Warehouse Management
-Menu Management
-Human Resources Management
-Sales Statistics
-Print Invoices
-Customer Management
+Login   
+Account Management  
+Customer Management   
+Table Management   
+Ingredient Management  
+Warehouse Management     
+Menu Management   
+Human Resources Management  
+Sales Statistics  
+Print Invoices  
+Customer Management      
 
