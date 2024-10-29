@@ -56,10 +56,6 @@ Building a Restaurant Management System designed with object orientation in a 3-
 
 ---
 
-Dish management: Add, edit, delete, search for dishes.
-Table management: Update table status, arrange tables.
-Bill management: Create new bills, edit bills, view bill history.
-Reporting: Generate sales reports, inventory reports.
 # ERD Model 
 ![image](https://github.com/user-attachments/assets/14ef617d-8ff5-43c8-b2bd-eeb013b9912c)
 # Main functions
