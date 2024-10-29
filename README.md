@@ -63,15 +63,15 @@ Building a Restaurant Management System designed with object orientation in a 3-
 # ERD Model 
 ![image](https://github.com/user-attachments/assets/14ef617d-8ff5-43c8-b2bd-eeb013b9912c)
 # Main functions
-Đăng nhập
-Quản lý Tài Khoản
-Quản lý khách hàng
-Quản lý Bàn
-Quản lý Nguyên Liệu
-Quản lý Kho
-Quản lý Thực Đơn
-Quản lý Nhân Sự
-Thống Kê Doanh Thu
-In Hóa Đơn
-Quản lý khách hàng
+Login\n
+Account Management\n
+Customer Management\n
+Table Management\n
+Ingredient Management
+Warehouse Management
+Menu Management
+Human Resources Management
+Sales Statistics
+Print Invoices
+Customer Management
 
